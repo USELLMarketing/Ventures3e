@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ventures Arcade Audio</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>Ventures Arcade Audio</h1>
+  <p class="subtitle">Ventures 3rd Edition &mdash; Student&rsquo;s Book, Workbook, and Literacy Workbook audio, plus Grammar videos</p>
+</header>
+
+<nav class="level-tabs" id="level-tabs" aria-label="Levels"></nav>
+
+<main id="level-panels"></main>
+
+<footer class="site-footer">
+  <p>Audio files are hosted separately; some tracks may show as not yet available while files are being uploaded.</p>
+</footer>
+
+<div class="player-bar" id="player-bar" hidden>
+  <button type="button" class="player-toggle" id="player-toggle" aria-label="Play">
+    <svg id="icon-play" viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M8 5v14l11-7z"/></svg>
+    <svg id="icon-pause" viewBox="0 0 24 24" width="22" height="22" hidden><path fill="currentColor" d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+  </button>
+  <div class="player-body">
+    <div class="player-title" id="player-title">&nbsp;</div>
+    <div class="player-progress">
+      <span class="player-time" id="player-current">0:00</span>
+      <input type="range" id="player-seek" min="0" max="1000" value="0" step="1" aria-label="Seek">
+      <span class="player-time" id="player-duration">0:00</span>
+    </div>
+  </div>
+  <audio id="player-audio" preload="metadata"></audio>
+</div>
+
+<div class="video-modal" id="video-modal" hidden>
+  <div class="video-modal-backdrop" id="video-modal-backdrop"></div>
+  <div class="video-modal-content">
+    <button type="button" class="video-modal-close" id="video-modal-close" aria-label="Close video">&times;</button>
+    <div class="video-modal-title" id="video-modal-title">&nbsp;</div>
+    <video id="video-modal-player" controls playsinline></video>
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
