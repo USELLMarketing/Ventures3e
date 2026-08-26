@@ -59,8 +59,8 @@
                 "originalUrl": "http://cambridge.org/files/1015/1932/9383/SB_Basic_Unit_1_Page_8_Lesson_B_Exercise_1.mp3"
               },
               {
-                "label": "Page 9, Lesson B, Exercise 2B",
-                "filename": "SB_Basic_Unit_1_Page_9_Lesson_B_Exercise_2B.mp3",
+                "label": "Page 8, Lesson B, Exercise 2B",
+                "filename": "SB_Basic_Unit_1_Page_8_Lesson_B_Exercise_2B.mp3",
                 "originalUrl": "http://cambridge.org/files/7615/1932/9388/SB_Basic_Unit_1_Page_9_Lesson_B_Exercise_2B.mp3"
               },
               {
@@ -871,126 +871,6 @@
             ]
           }
         ]
-      },
-      {
-        "catalog": "Literacy Workbook Audio",
-        "units": [
-          {
-            "unit": "Welcome Unit",
-            "items": [
-              {
-                "label": "Page 3",
-                "filename": "WB_Basic_Literacy_Welcome_Page_3.mp3",
-                "originalUrl": "http://cambridge.org/files/3115/1818/8382/WB_Basic_Literacy_Welcome_Page_3.mp3"
-              },
-              {
-                "label": "Page 5",
-                "filename": "WB_Basic_Literacy_Welcome_Page_5.mp3",
-                "originalUrl": "http://cambridge.org/files/1615/1818/8381/WB_Basic_Literacy_Welcome_Page_5.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 1",
-            "items": [
-              {
-                "label": "Page 7",
-                "filename": "WB_Basic_Literacy_Unit_1_Page_7.mp3",
-                "originalUrl": "http://cambridge.org/files/8615/1818/8380/WB_Basic_Literacy_Unit_1_Page_7.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 2",
-            "items": [
-              {
-                "label": "Page 19",
-                "filename": "WB_Basic_Literacy_Unit_2_Page_19.mp3",
-                "originalUrl": "http://cambridge.org/files/1115/1818/8379/WB_Basic_Literacy_Unit_2_Page_19.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 3",
-            "items": [
-              {
-                "label": "Page 31",
-                "filename": "WB_Basic_Literacy_Unit_3_Page_31.mp3",
-                "originalUrl": "http://cambridge.org/files/5015/1818/8378/WB_Basic_Literacy_Unit_3_Page_31.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 4",
-            "items": [
-              {
-                "label": "Page 43",
-                "filename": "WB_Basic_Literacy_Unit_4_Page_43.mp3",
-                "originalUrl": "http://cambridge.org/files/2415/1818/8376/WB_Basic_Literacy_Unit_4_Page_43.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 5",
-            "items": [
-              {
-                "label": "Page 55",
-                "filename": "WB_Basic_Literacy_Unit_5_Page_55.mp3",
-                "originalUrl": "http://cambridge.org/files/9815/1818/8375/WB_Basic_Literacy_Unit_5_Page_55.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 6",
-            "items": [
-              {
-                "label": "Page 67",
-                "filename": "WB_Basic_Literacy_Unit_6_Page_67.mp3",
-                "originalUrl": "http://cambridge.org/files/1215/1818/8373/WB_Basic_Literacy_Unit_6_Page_67.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 7",
-            "items": [
-              {
-                "label": "Page 79",
-                "filename": "WB_Basic_Literacy_Unit_7_Page_79.mp3",
-                "originalUrl": "http://cambridge.org/files/5215/1818/8387/WB_Basic_Literacy_Unit_7_Page_79.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 8",
-            "items": [
-              {
-                "label": "Page 91",
-                "filename": "WB_Basic_Literacy_Unit_8_Page_91.mp3",
-                "originalUrl": "http://cambridge.org/files/1015/1818/8385/WB_Basic_Literacy_Unit_8_Page_91.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 9",
-            "items": [
-              {
-                "label": "Page 103",
-                "filename": "WB_Basic_Literacy_Unit_9_Page_103.mp3",
-                "originalUrl": "http://cambridge.org/files/6015/1818/8384/WB_Basic_Literacy_Unit_9_Page_103.mp3"
-              }
-            ]
-          },
-          {
-            "unit": "Unit 10",
-            "items": [
-              {
-                "label": "Page 115",
-                "filename": "WB_Basic_Literacy_Unit_10_Page_115.mp3",
-                "originalUrl": "http://cambridge.org/files/1315/1818/8383/WB_Basic_Literacy_Unit_10_Page_115.mp3"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -1054,8 +934,8 @@
                 "originalUrl": "http://cambridge.org/files/8515/1922/5849/SB1_Unit_1_Page_7_Lesson_A_Exercises_2A_and_2B.mp3"
               },
               {
-                "label": "Page 8, Lesson B, Exercise 2B",
-                "filename": "SB1_Unit_1_Page_8_Lesson_B_Exercise_2B.mp3",
+                "label": "Page 8, Lesson B, Exercise 2A",
+                "filename": "SB1_Unit_1_Page_8_Lesson_B_Exercise_2A.mp3",
                 "originalUrl": "http://cambridge.org/files/8415/1922/5846/SB1_Unit_1_Page_8_Lesson_B_Exercise_2B.mp3"
               },
               {
