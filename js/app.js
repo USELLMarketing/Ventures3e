@@ -157,7 +157,7 @@
 
   function buildUnitJump(units, catalogId) {
     const nav = el("nav", { class: "unit-jump" });
-    units.forEach((u) => {
+    units.filter((u) => !/^Review/i.test(u.unit)).forEach((u) => {
       const a = el("a", { href: `#${catalogId}-${slugify(u.unit)}`, text: u.unit });
       nav.appendChild(a);
     });
