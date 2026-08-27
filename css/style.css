@@ -24,7 +24,24 @@ body {
   padding: 28px 24px 16px;
   text-align: center;
 }
-.site-header h1 { margin: 0 0 4px; font-size: 1.7rem; }
+.site-header .header-crest {
+  display: block;
+  height: 20px;
+  width: auto;
+  margin: 0 auto 12px;
+}
+.site-header .header-wordmark {
+  display: block;
+  height: 58px;
+  width: auto;
+  margin: 0 auto 10px;
+}
+.site-header .header-kicker {
+  margin: 0 0 4px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+}
 .subtitle { margin: 0; color: var(--muted); }
 
 .level-tabs {
