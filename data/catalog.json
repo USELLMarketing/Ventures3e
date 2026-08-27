@@ -2371,36 +2371,6 @@
         "catalog": "Student's Book Audio",
         "units": [
           {
-            "unit": "Unit 1",
-            "items": [
-              {
-                "label": "Page 7, Lesson A, Exercises 3A",
-                "filename": "SB3_Unit_1_Page_7_Lesson_A_Exercise_3A.mp3",
-                "originalUrl": "http://cambridge.org/files/6115/2535/6117/SB3_Unit_1_Page_7_Lesson_A_Exercise_3A.mp3"
-              },
-              {
-                "label": "Page 7, Lesson A, Exercise 2A and 2B",
-                "filename": "SB3_Unit_1_Page_7_Lesson_A_Exercises_2A_and_2B.mp3",
-                "originalUrl": "http://cambridge.org/files/8415/2535/6120/SB3_Unit_1_Page_7_Lesson_A_Exercises_2A_and_2B.mp3"
-              },
-              {
-                "label": "Page 8, Lesson B, Exercise 2A",
-                "filename": "SB3_Unit_1_Page_8_Lesson_B_Exercise_2A.mp3",
-                "originalUrl": "http://cambridge.org/files/5815/2535/6122/SB3_Unit_1_Page_8_Lesson_B_Exercise_2A.mp3"
-              },
-              {
-                "label": "Page 10, Lesson C, Exercise 2A",
-                "filename": "SB3_Unit_1_Page_10_Lesson_C_Exercise_2A.mp3",
-                "originalUrl": "http://cambridge.org/files/5415/2535/6124/SB3_Unit_1_Page_10_Lesson_C_Exercise_2A.mp3"
-              },
-              {
-                "label": "Page 12, Lesson D, Exercise 2",
-                "filename": "SB3_Unit_1_Page_12_Lesson_D_Exercise_2.mp3",
-                "originalUrl": "http://cambridge.org/files/6215/2535/6127/SB3_Unit_1_Page_12_Lesson_D_Exercise_2.mp3"
-              }
-            ]
-          },
-          {
             "unit": "Welcome Unit",
             "items": [
               {
@@ -2427,6 +2397,36 @@
                 "label": "Page 5, Exercise 4C",
                 "filename": "SB3_Welcome_Page_5_Exercise_4C.mp3",
                 "originalUrl": "http://cambridge.org/files/9215/2535/6305/SB3_Welcome_Page_5_Exercise_4C.mp3"
+              }
+            ]
+          },
+          {
+            "unit": "Unit 1",
+            "items": [
+              {
+                "label": "Page 7, Lesson A, Exercises 3A",
+                "filename": "SB3_Unit_1_Page_7_Lesson_A_Exercise_3A.mp3",
+                "originalUrl": "http://cambridge.org/files/6115/2535/6117/SB3_Unit_1_Page_7_Lesson_A_Exercise_3A.mp3"
+              },
+              {
+                "label": "Page 7, Lesson A, Exercise 2A and 2B",
+                "filename": "SB3_Unit_1_Page_7_Lesson_A_Exercises_2A_and_2B.mp3",
+                "originalUrl": "http://cambridge.org/files/8415/2535/6120/SB3_Unit_1_Page_7_Lesson_A_Exercises_2A_and_2B.mp3"
+              },
+              {
+                "label": "Page 8, Lesson B, Exercise 2A",
+                "filename": "SB3_Unit_1_Page_8_Lesson_B_Exercise_2A.mp3",
+                "originalUrl": "http://cambridge.org/files/5815/2535/6122/SB3_Unit_1_Page_8_Lesson_B_Exercise_2A.mp3"
+              },
+              {
+                "label": "Page 10, Lesson C, Exercise 2A",
+                "filename": "SB3_Unit_1_Page_10_Lesson_C_Exercise_2A.mp3",
+                "originalUrl": "http://cambridge.org/files/5415/2535/6124/SB3_Unit_1_Page_10_Lesson_C_Exercise_2A.mp3"
+              },
+              {
+                "label": "Page 12, Lesson D, Exercise 2",
+                "filename": "SB3_Unit_1_Page_12_Lesson_D_Exercise_2.mp3",
+                "originalUrl": "http://cambridge.org/files/6215/2535/6127/SB3_Unit_1_Page_12_Lesson_D_Exercise_2.mp3"
               }
             ]
           },
